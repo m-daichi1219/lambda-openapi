@@ -1,0 +1,37 @@
+# Source files
+src/
+test/
+tests/
+examples/
+
+# Development files
+.gitignore
+.eslintrc.js
+.prettierrc
+jest.config.js
+tsconfig.json
+*.tsbuildinfo
+
+# Documentation (keep only essential docs)
+docs/
+CONTRIBUTING.md
+
+# CI/CD
+.github/
+
+# Coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env* 

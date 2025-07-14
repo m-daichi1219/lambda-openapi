@@ -5,10 +5,10 @@ export * from './decorators';
 export * from './types';
 
 // Core functionality
-export * from './generator';
+export { generateOpenApiSpec, OpenApiGenerator } from './generator';
 
 // Utilities
 export * from './utils';
 
 // Re-export reflect-metadata for convenience
-import 'reflect-metadata'; 
+import 'reflect-metadata';

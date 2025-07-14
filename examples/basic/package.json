@@ -1,0 +1,17 @@
+{
+  "name": "lambda-openapi-basic-example",
+  "version": "1.0.0",
+  "description": "Basic example of lambda-openapi usage",
+  "main": "index.js",
+  "scripts": {
+    "generate": "ts-node generate.ts"
+  },
+  "dependencies": {
+    "lambda-openapi": "file:../..",
+    "@types/aws-lambda": "^8.10.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0"
+  }
+}

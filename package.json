@@ -32,16 +32,16 @@
     "serverless",
     "documentation"
   ],
-  "author": "Your Name <your.email@example.com>",
+  "author": "dmatsu",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yourusername/lambda-openapi.git"
+    "url": "git+https://github.com/m-daichi1219/lambda-openapi"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/lambda-openapi/issues"
+    "url": "https://github.com/m-daichi1219/lambda-openapi/issues"
   },
-  "homepage": "https://github.com/yourusername/lambda-openapi#readme",
+  "homepage": "https://github.com/m-daichi1219/lambda-openapi#readme",
   "files": [
     "lib/**/*",
     "README.md",
